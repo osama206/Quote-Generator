@@ -4,7 +4,7 @@ This repository contains a simple web application that generates random quotes u
 
 ### How to Use
 
-You can access the Quote Generator using the following link: [Quote Generator](https://osama206.github.io/Quote-Generator/)
+You can access the Quote Generator using the following link: [Quote Generator](https://osama206.github.io/quote-generator/)
 
 Once you access the link, the Quote Generator webpage will load automatically. Here's how to use it:
 
